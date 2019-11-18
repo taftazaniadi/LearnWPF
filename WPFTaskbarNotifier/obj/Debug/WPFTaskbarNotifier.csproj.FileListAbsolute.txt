@@ -1,0 +1,155 @@
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\WPFTaskbarNotifier.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\WPFTaskbarNotifier.pdb
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.csprojAssemblyReference.cache
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.Properties.Resources.resources
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.csproj.GenerateResource.cache
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.csproj.CoreCompileInputs.cache
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.pdb
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Owin.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Owin.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Owin.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.csproj.CopyComplete
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\WPFTaskbarNotifier.dll.config
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Buffers.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Memory.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Buffers.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Memory.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\WPFTaskbarNotifier.dll.config
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\WPFTaskbarNotifier.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\WPFTaskbarNotifier.pdb
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Owin.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Owin.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Buffers.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Memory.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Owin.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Buffers.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Memory.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.csprojAssemblyReference.cache
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.Properties.Resources.resources
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.csproj.GenerateResource.cache
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.csproj.CopyComplete
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\obj\Debug\WPFTaskbarNotifier.pdb
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Hosting.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Text.Json.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.ValueTuple.dll
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Hosting.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.EventLog.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Text.Json.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mtaft\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\WPFTaskbarNotifier\bin\Debug\System.ValueTuple.xml

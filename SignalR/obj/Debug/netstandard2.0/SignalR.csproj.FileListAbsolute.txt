@@ -1,0 +1,6 @@
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\SignalR\bin\Debug\netstandard2.0\SignalR.deps.json
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\SignalR\bin\Debug\netstandard2.0\SignalR.dll
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\SignalR\obj\Debug\netstandard2.0\SignalR.csprojAssemblyReference.cache
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\SignalR\obj\Debug\netstandard2.0\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\SignalR\obj\Debug\netstandard2.0\SignalR.AssemblyInfoInputs.cache
+C:\Users\M Taftazani Adi\Downloads\WPFTaskbarNotifier_src\WPFTaskbarNotifier_src\WPFTaskbarNotifierExample\SignalR\obj\Debug\netstandard2.0\SignalR.AssemblyInfo.cs
